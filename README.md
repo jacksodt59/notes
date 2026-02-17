@@ -5,3 +5,4 @@ David Jackson's GitHub Page
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 - [Lecture Notes](comp1238.md)
+- [Term 1 Schedule](Term_1_Schedule.md)
