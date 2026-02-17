@@ -1,4 +1,4 @@
-# notes
+# Notes
 David Jackson's GitHub Page
 ## Links
 - [D2L](https://learn.georgebrown.ca)
